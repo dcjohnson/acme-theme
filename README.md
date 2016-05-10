@@ -1,3 +1,3 @@
 # acme-theme
 Make Emacs look like Acme
-![Screenshot](acme-theme/screenshot.jpg?raw=true)
+![Screenshot](https://raw.githubusercontent.com/bopwerks/acme-theme/master/screenshot.png)
